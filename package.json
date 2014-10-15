@@ -1,9 +1,9 @@
 {
   "name": "gulp-callback",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "GULP PIPE CALLBACK",
   "main": "index.js",
   "author": "",
-  "repository": "http://github.com/cgkineo/gulp-callback",
+  "repository": "http://github.com/oliverfoster/gulp-callback",
   "license": "GPLv3"
 }
